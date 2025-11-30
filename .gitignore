@@ -1,0 +1,13 @@
+*.DS_Store
+build/
+DerivedData/
+*.os_activity_dt_mode
+*.mode1v3
+*.mode2v3
+*.pbuser
+*.perspectivev3
+*.appelement
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+xcuserdata/
