@@ -1,4 +1,5 @@
 # Re:Mark
+<img width="240" height="240" alt="Gemini_Generated_Image_yfdhvxyfdhvxyfdh" src="https://github.com/user-attachments/assets/2ed616c8-5cb9-4746-a990-216c5c7932e0" />
 
 > **macOS AI Study Companion**
 > Randomly selects a local Markdown note and generates a summary & quiz using Gemini AI.
