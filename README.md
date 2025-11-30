@@ -8,6 +8,10 @@
 ![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey?style=flat-square&logo=apple)
 ![Gemini](https://img.shields.io/badge/Model-Gemini_Flash_2.5-blue?style=flat-square&logo=google)
 
+## ScreenShot
+
+<img width="1012" height="944" alt="image" src="https://github.com/user-attachments/assets/11b0955a-299b-40bc-ab1e-a87f027b9fa4" />
+
 ## Features
 
 - **Random Pick**: Recursively scans a target directory to select a random `.md` file.
